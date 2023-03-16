@@ -2,7 +2,7 @@
 title: development setup
 description: 
 published: true
-date: 2022-12-11T20:52:08.380Z
+date: 2023-03-16T01:09:31.538Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-13T10:43:10.910Z
@@ -14,7 +14,7 @@ Using maiden in the web browser is the most straightforward way.
 
 just access norns via http://norns.local
 
-it provides both a [file brower + editor](https://monome.org/docs/norns/maiden/#file-viewer) and a [REPL](https://monome.org/docs/norns/maiden/#repl) (shell) allowing you create and edit scripts, launch them an see their output.
+it provides both a [file browser + editor](https://monome.org/docs/norns/maiden/#file-viewer) and a [REPL](https://monome.org/docs/norns/maiden/#repl) (shell) allowing you create and edit scripts, launch them an see their output.
 
 
 ## remote access via command line
