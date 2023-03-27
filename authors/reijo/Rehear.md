@@ -1,8 +1,8 @@
 ---
-title: Rehear
-description: 
+title: rehear
+description: listen to (large) audio files and create timecode markers
 published: true
-date: 2023-03-27T16:08:39.737Z
+date: 2023-03-27T16:10:39.684Z
 tags: utilities
 editor: markdown
 dateCreated: 2023-03-27T16:01:44.827Z
@@ -10,7 +10,7 @@ dateCreated: 2023-03-27T16:01:44.827Z
 
 ## screenshots
 
-
+![rehear.png](/community/reijo/rehear.png)
 
 ## description
 
