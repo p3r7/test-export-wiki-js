@@ -2,7 +2,7 @@
 title: authors index
 description: 
 published: true
-date: 2023-01-03T19:13:16.519Z
+date: 2023-03-27T16:20:36.812Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-14T14:28:31.859Z
@@ -65,6 +65,7 @@ If you are missing, don't hesitate to add yourself!
 - [obi](/en/authors/obi)
 - [ooray](/en/authors/ooray)
 - [pangrus](/en/authors/pangrus)
+- [reijo](/en/authors/reijo)
 - [quixotic7](/en/authors/quixotic7)
 - [shoggoth](/en/authors/shoggoth)
 - [speakerdamage](/en/authors/speakerdamage)
