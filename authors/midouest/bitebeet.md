@@ -2,7 +2,7 @@
 title: bitebeet
 description: a bytebeat interpreter
 published: true
-date: 2023-04-14T01:38:01.226Z
+date: 2023-04-14T01:43:29.991Z
 tags: synths, keyboard, generative
 editor: markdown
 dateCreated: 2021-03-22T05:05:16.413Z
@@ -44,7 +44,7 @@ Enter bytebeat expressions by typing on a connected keyboard. text will wrap aut
 
 The interpreter supports a subset of the C programming language expression syntax.
 
-**example:** (the so called *crowd* bytebeat):
+**example:**
 ```
 ((t<<1)^((t<<1)+(t>>7)&t>>12))|t>>(4-(1^7&(t>>19)))|t>>7
 ```
@@ -152,12 +152,6 @@ strings are enclosed in double-quotes
 
 > the interpreter performs bounds-checking when indexing string values. accessing out-of-bounds indices produces the internal undefined value (see above). It is recommended to limit index expressions to the length of the string being indexed using the modulo operator: `"<string>"[(<expression>)%<length>]`
 {.is-warning}
-
-## roadmap
-
-- ux improvements
-- dynamic values
-- granular engine
 
 ## links
 
