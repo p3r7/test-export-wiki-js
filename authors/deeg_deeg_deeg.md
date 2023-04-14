@@ -2,7 +2,7 @@
 title: deeg_deeg_deeg
 description: make some noise!!!
 published: true
-date: 2022-05-22T07:30:20.263Z
+date: 2023-04-14T05:25:52.112Z
 tags: snyths
 editor: markdown
 dateCreated: 2022-05-22T06:44:18.714Z
@@ -18,7 +18,7 @@ i am **deeg** a multidsiciplinary artist from germany. i do a lot of stuff: soni
 
 ## links
 
-- [personal site](http://www.michaeldeeg.de)
+- [instagram](https://www.instagram.com/deeg_deeg_deeg/)
 - [my bandcamp](httpS://deeg.bandcamp.com)
 - [bandcamp of my band "not and yet"](httpS://notandyet.bandcamp.com)
 - [GitHub](https://github.com/deeg-deeg-deeg)
