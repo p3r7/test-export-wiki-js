@@ -1,8 +1,8 @@
 ---
-title: bitebeet (wip)
+title: bitebeet
 description: a bytebeat interpreter
 published: true
-date: 2021-04-13T16:44:15.567Z
+date: 2023-04-14T01:38:01.226Z
 tags: synths, keyboard, generative
 editor: markdown
 dateCreated: 2021-03-22T05:05:16.413Z
@@ -19,9 +19,6 @@ a [bytebeat](http://canonical.org/~kragen/bytebeat/) interpreter
 > keyboard required (the typing kind)
 {.is-info}
 
-> this script is still a work-in-progress. expect bugs and usability issues
-{.is-danger}
-
 ## install
 
 `;install https://github.com/midouest/bitebeet`
@@ -33,7 +30,7 @@ a [bytebeat](http://canonical.org/~kragen/bytebeat/) interpreter
 
 Enter bytebeat expressions by typing on a connected keyboard. text will wrap automatically when the screen extents are reached.
 
-> scrolling is not yet implemented. The window can currently fit roughly 8 rows of 16 characters with the current font settings (128 characters).
+>  The window can fit 7 rows of 16 characters (112 characters). Scrolling is not supported.
 {.is-warning}
 
 ### keyboard controls
