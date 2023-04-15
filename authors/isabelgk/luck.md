@@ -2,7 +2,7 @@
 title: luck
 description: Seven nodes to grant you good fortune
 published: true
-date: 2023-01-18T21:54:04.937Z
+date: 2023-04-15T14:49:10.495Z
 tags: generative
 editor: markdown
 dateCreated: 2023-01-18T21:52:33.951Z
@@ -32,7 +32,7 @@ This was the first script I wrote to get my feet wet with norns programming.
 ## install
 
 from maiden type
-`;install https://git.sr.ht/~isabelgk/luck`
+`;install https://github.com/isabelgk/luck`
 
 ## links
 
