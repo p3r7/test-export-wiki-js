@@ -2,7 +2,7 @@
 title: ch-norns
 description: share control data and collaborate between norns, max, pure data, the web, and arduino 
 published: true
-date: 2022-06-29T18:39:35.974Z
+date: 2023-05-02T23:28:51.538Z
 tags: utilities, mods
 editor: markdown
 dateCreated: 2022-04-16T06:19:21.540Z
@@ -26,7 +26,7 @@ as a mod, ch-norns runs in the background while you perform with other scripts. 
 
 ## install
 
-**ch-norns will soon be available for beta testing by the norns community at the end of july 2022. more information on downloading the package and submitting feedback will be posted here and on the [lines forum](https://llllllll.co/), so please check back then.**
+**v1.1 of ch-norns will soon be available for beta testing by the norns community at the end of may 2023. more information on downloading the package and submitting feedback will be posted here soon, so please check back then.**
 
 
 
