@@ -2,7 +2,7 @@
 title: andrew
 description: 
 published: true
-date: 2023-02-12T03:29:54.730Z
+date: 2023-05-10T21:49:31.806Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-02T18:14:03.117Z
@@ -20,7 +20,6 @@ multimedia field recordist + creative programmer from the american midwest w/ pa
 
 feedback is appreciated on any of these
 
-- [ndls](https://github.com/andr-ew/ndls)
 - [eggs](https://github.com/andr-ew/eggs)
 
 ## lua libs
