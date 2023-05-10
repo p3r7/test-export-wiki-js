@@ -2,7 +2,7 @@
 title: ndls
 description: 4-track tape looper, delay, & sampler
 published: true
-date: 2023-05-10T21:45:47.712Z
+date: 2023-05-10T21:46:13.618Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T21:45:47.712Z
@@ -22,8 +22,9 @@ a spiritual successor to [anachronism](https://github.com/andr-ew/prosody#anachr
 
 [read here](https://github.com/andr-ew/ndls)
 
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b2FTHczpshk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 
 
 ## hardware
