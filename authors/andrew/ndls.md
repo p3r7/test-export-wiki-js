@@ -2,8 +2,8 @@
 title: ndls
 description: 4-track tape looper, delay, & sampler
 published: true
-date: 2023-05-10T21:46:13.618Z
-tags: 
+date: 2023-05-10T21:49:03.909Z
+tags: grid, arc, samplers, delays + loopers
 editor: markdown
 dateCreated: 2023-05-10T21:45:47.712Z
 ---
