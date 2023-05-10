@@ -2,7 +2,7 @@
 title: ndls
 description: 4-track tape looper, delay, & sampler
 published: true
-date: 2023-05-10T21:49:03.909Z
+date: 2023-05-10T21:56:32.131Z
 tags: grid, arc, samplers, delays + loopers
 editor: markdown
 dateCreated: 2023-05-10T21:45:47.712Z
@@ -16,15 +16,19 @@ dateCreated: 2023-05-10T21:45:47.712Z
 
 a spiritual successor to [anachronism](https://github.com/andr-ew/prosody#anachronsim), [anaphora](https://github.com/andr-ew/prosody#anaphora), and several unreleased precursors.
 
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b2FTHczpshk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXT2iarlvHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+
 ![ndls.png](/community/andrew/ndls.png)
 
 ## documentation
 
 [read here](https://github.com/andr-ew/ndls)
-
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b2FTHczpshk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
 
 
 ## hardware
@@ -42,7 +46,7 @@ a spiritual successor to [anachronism](https://github.com/andr-ew/prosody#anachr
 
 ## install
 
-install from the maiden catalog (not there yet)
+install from the maiden catalog
 
 or
 
